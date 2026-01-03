@@ -1,14 +1,15 @@
 * {
-    color: #ececec;
+    color:#EAEAEA;
     font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 body {
     margin: 0;
     padding: 0;
+    /* background-color: #0D1B2A; */
 }
 
 .app {
-    background-color: #212121;
+    /* background-color: #0D1B2A; */
     display: flex;
 }
